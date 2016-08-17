@@ -1,2 +1,3 @@
-# helloworld
-write a bit over myself
+# hello world
+write a bit about myself
+
